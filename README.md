@@ -9,6 +9,7 @@ Chatting app by using Socket.io
 
 ### Screen
 
+![2023-01-26 (1)](https://user-images.githubusercontent.com/96677760/214813837-6db8c216-0a3b-404f-ac5d-28c88ed19008.png)
 
 
 ### Built with
