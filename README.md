@@ -17,6 +17,7 @@ Chatting app by using Socket.io
 - Semantic HTML5 markup
 - CSS
 - Vanilla javascript
+- node.js
 - Socket.io
 
 ### Dependencies
